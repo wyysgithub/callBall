@@ -1,0 +1,80 @@
+{
+  "assets-sort-type": "name",
+  "collision-matrix": [
+    [
+      true
+    ],
+    [
+      false,
+      false,
+      null,
+      null,
+      true,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      null,
+      true,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ],
+    [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  ],
+  "design-resolution-height": 640,
+  "design-resolution-width": 960,
+  "excluded-modules": [],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "fit-height": true,
+  "fit-width": false,
+  "group-list": [
+    "default",
+    "edge",
+    "pocket",
+    "cue",
+    "ball",
+    "w_ball"
+  ],
+  "last-module-event-record-time": 1564296981626,
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "start-scene": "current",
+  "use-customize-simulator": true,
+  "use-project-simulator-setting": false
+}
